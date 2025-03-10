@@ -1,0 +1,8 @@
+NOC,Year,Previous_Year,Current_Medals,Previous_Medals,Absolute_Change,Relative_Change,Change_Type,Change_Description
+USA,1984,1976,26,1,25,12.5,Absolute_Change,Significant Increase
+USA,1984,1976,26,1,25,12.5,Relative_Change,Significant Increase
+USA,1932,1928,20,0,20,20.0,Absolute_Change,Significant Increase
+USA,1932,1928,20,0,20,20.0,Relative_Change,Significant Increase
+USA,1992,1988,11,1,10,5.0,Relative_Change,Significant Increase
+USA,1948,1936,8,0,8,8.0,Relative_Change,Significant Increase
+USA,1988,1984,1,26,-25,-0.9259259259259259,Absolute_Change,Significant Decrease
